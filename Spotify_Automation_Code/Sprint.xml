@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SPRINT-1-TESTCASES">
+
+
+    <test name="Register Data">
+
+        <classes>
+            <class name="RegisterTest">
+
+
+            </class>
+
+        </classes>
+
+
+    </test>
+
+    <test name="Login  Data">
+        <classes>
+            <class name="LogInTest">
+
+
+            </class>
+
+        </classes>
+
+
+    </test>
+
+    <test name="Add PlayList ">
+        <classes>
+            <class name="AddPalyListTest">
+
+
+            </class>
+
+        </classes>
+
+
+    </test>
+
+
+
+</suite>

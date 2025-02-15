@@ -1,0 +1,19 @@
+{
+  "ValidRegisterData": [
+    {
+      "Gender": "Male",
+      "Name": "Mahmoud",
+      "Email": "Mah23mo32ud71234@gmail.com",
+      "Password": "Test12345789@",
+      "Day": "8",
+      "Month": "3",
+      "Year": "1997"
+    }
+  ],
+  "ValidLoginData": [
+    {
+      "Email": "Mah23mo32ud1234@gmail.com",
+      "Password": "Test12345789@"
+    }
+  ]
+}
